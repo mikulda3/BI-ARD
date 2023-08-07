@@ -1,0 +1,5 @@
+Ovládání je vcelku jednoduché: stačí zapojit připravek Arduino Esplora a spustit program "Controller".
+    - Pro pohyb myši použijte joystick, citlivost pohybu se dá jednoduše konfigurovat pomocí slideru.   
+    - Pro funkci levého tlačítka myši stačí zmáčknout joystick, nebo levé tlačítko "Switch 2".
+    - Pro funkci pravého tlačítka myši zmáčkněte pravé tlačítko "Switch 4". 
+    - Tlačítka "Switch 1", resp. "Switch 3", nahrazují kolečko myši, tedy mají funkci scroll down, resp. scroll up.
